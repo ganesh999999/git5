@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: org-address
+  cloud:
+    config:
+      uri: http://localhost:8084
+      failFast: true
